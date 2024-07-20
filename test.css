@@ -1,0 +1,12 @@
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  box-sizing: border-box;
+}
+.wrapper{
+    display: flex;
+    gap: 10px;
+    /* width: 600px; */
+    flex-wrap: wrap;
+}
